@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LLM_policing_risk"
+  site-url: "https://AndreasThinks.github.io/LLM_policing_risk"
+  description: "Tools to enable the evaluation of how well LLMs evaluate risks in policing"
+  repo-branch: main
+  repo-url: "https://github.com/AndreasThinks/LLM_policing_risk"
