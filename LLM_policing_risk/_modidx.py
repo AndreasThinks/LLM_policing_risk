@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://AndreasThinks.github.io',
                 'git_url': 'https://github.com/AndreasThinks/LLM_policing_risk',
                 'lib_path': 'LLM_policing_risk'},
-  'syms': {'LLM_policing_risk.core': {'LLM_policing_risk.core.foo': ('core.html#foo', 'LLM_policing_risk/core.py')}}}
+  'syms': { 'LLM_policing_risk.core': {'LLM_policing_risk.core.foo': ('core.html#foo', 'LLM_policing_risk/core.py')},
+            'LLM_policing_risk.query_llm': {'LLM_policing_risk.query_llm.foo': ('query_llm.html#foo', 'LLM_policing_risk/query_llm.py')}}}
